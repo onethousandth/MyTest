@@ -1,4 +1,11 @@
-# new power function
+# -*- conding:UTF-8 -*-
+#
+# Copyright (C) AddyXiao <addyxiao@msn.cn>
+#
+#
+
+__author__ = "AddyXiao"
+__author_email__ = "addyxiao@msn.cn"
 
 
 def int_NewPower(x, int_N=2):
@@ -8,5 +15,5 @@ def int_NewPower(x, int_N=2):
         int_N = int_N-1
     return int_S
 
-print(int_NewPower(2,10))
 
+print(int_NewPower(2, 10))
