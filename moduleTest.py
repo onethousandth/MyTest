@@ -7,7 +7,7 @@
 """A module test"""
 
 __author__="AddyXiao"
-__authoremile__="addyxiao@msn.cn"
+__authoremail__="addyxiao@msn.cn"
 
 import sys
 import os
